@@ -7,4 +7,4 @@ Além disso, o repositório servirá como um espaço para colocar em prática os
 ![Image Alt]([image_url](https://github.com/ericguimaraes-del/github-page/blob/main/My_Sdudy_HUB_TI%20(3).png?raw=true)).
 ![Image Alt]([image_url](https://github.com/ericguimaraes-del/github-page/blob/main/My_Sdudy_HUB_TI%20(4).png?raw=true)).
 ![Image Alt]([image_url](https://github.com/ericguimaraes-del/github-page/blob/main/My_Sdudy_HUB_TI%20(5).png?raw=true)).
-![Image Alt]([image_url](https://github.com/ericguimaraes-del/github-page/blob/main/My_Sdudy_HUB_TI.png?raw=true)).
+![Image Alt]([image_url](https://github.com/ericguimaraes-del/github-page/blob/96b3214304972b121a6870ebe57e52f1e7360008/My_Sdudy_HUB_TI.png)).
