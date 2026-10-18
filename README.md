@@ -2,3 +2,4 @@ Este repositório foi criado para organizar e armazenar as atividades, os exerc�
 Além disso, o repositório servirá como um espaço para colocar em prática os conhecimentos adquiridos durante as aulas e documentar cada etapa do meu desenvolvimento acadêmico.
 
 
+https://github.com/ericguimaraes-del/github-page/blob/289a099c10caedc99e188d37fe20e2448a02769e/ec73de42-960b-461b-8e08-5323cdf62ada-0000.png
